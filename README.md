@@ -11,5 +11,5 @@ $ apt install python && apt install python2
 # - Теперь устанавливаем репозиторий
 $ git clone https://github.com/Misha369/password
 # - Запускаем программу
-cd password
-python kod.py
+$ cd password
+$ python kod.py
